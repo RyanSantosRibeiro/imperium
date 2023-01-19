@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/imperium/static/css/main.72c45dd0.css",
+    "main.js": "/imperium/static/js/main.db173985.js",
+    "static/media/retrato-1.jpg": "/imperium/static/media/retrato-1.b983c3b9c4d5008aa33e.jpg",
+    "static/media/paisagem-2.jpg": "/imperium/static/media/paisagem-2.7e163f8d7490fa5e4382.jpg",
+    "static/media/quadrado-2.jpg": "/imperium/static/media/quadrado-2.5a208980060b81000248.jpg",
+    "static/media/retrato-3.jpg": "/imperium/static/media/retrato-3.2b9a99864ddefa5b0048.jpg",
+    "static/media/retrato-2.jpg": "/imperium/static/media/retrato-2.5953493057aa77db67d2.jpg",
+    "static/media/background.jpg": "/imperium/static/media/background.a538d617de87f5ce8c27.jpg",
+    "static/media/quadrado-1.jpg": "/imperium/static/media/quadrado-1.56d10aa27aa8fc178a5f.jpg",
+    "static/media/about.jpg": "/imperium/static/media/about.0f0d906e1c66c83c31b7.jpg",
+    "static/media/quadrado-3.jpg": "/imperium/static/media/quadrado-3.8286c06543d1aab11964.jpg",
+    "static/media/paisagem-1.jpg": "/imperium/static/media/paisagem-1.3ab9eac354315d2be73e.jpg",
+    "static/media/logo-2.png": "/imperium/static/media/logo-2.29e4f500c55bc96d664c.png",
+    "static/media/Dagelland-8MB7B.ttf": "/imperium/static/media/Dagelland-8MB7B.05a27b02a356b2622da9.ttf",
+    "index.html": "/imperium/index.html",
+    "main.72c45dd0.css.map": "/imperium/static/css/main.72c45dd0.css.map",
+    "main.db173985.js.map": "/imperium/static/js/main.db173985.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.72c45dd0.css",
+    "static/js/main.db173985.js"
+  ]
+}
